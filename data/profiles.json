@@ -1,0 +1,381 @@
+[
+  {
+    "id": "maya",
+    "name": "Maya",
+    "age": 26,
+    "photo": "/profiles/01-maya.jpg",
+    "city": "Mumbai",
+    "college": "IDC School of Design",
+    "bio": "Design lead at a climate startup. Collector of film cameras, filter coffee, and long walks with no destination.",
+    "interests": ["Film photography", "Filter coffee", "Trekking", "Indie music"],
+    "likedYou": true
+  },
+  {
+    "id": "arjun",
+    "name": "Arjun",
+    "age": 27,
+    "photo": "/profiles/02-arjun.jpg",
+    "city": "Bengaluru",
+    "college": "BITS Pilani",
+    "bio": "Product manager who runs on filter coffee and terrible puns. Ask me about my five-year plan for a puppy.",
+    "interests": ["Cricket", "Running", "Stand-up comedy", "Board games"]
+  },
+  {
+    "id": "sana",
+    "name": "Sana",
+    "age": 25,
+    "photo": "/profiles/03-sana.jpg",
+    "city": "New Delhi",
+    "college": "St. Stephen's College",
+    "bio": "Econ grad, poetry regular, and professional thrift-store archaeologist. Will fight you over the last samosa.",
+    "interests": ["Poetry", "Thrifting", "Jazz", "Street food"],
+    "likedYou": true
+  },
+  {
+    "id": "kabir",
+    "name": "Kabir",
+    "age": 29,
+    "photo": "/profiles/04-kabir.jpg",
+    "city": "Pune",
+    "college": "COEP Pune",
+    "bio": "Backend engineer, weekend cyclist. I make excellent dal and even better playlists.",
+    "interests": ["Cycling", "Sci-fi", "Cooking", "Vinyl"]
+  },
+  {
+    "id": "ananya",
+    "name": "Ananya",
+    "age": 24,
+    "photo": "/profiles/05-ananya.jpg",
+    "city": "Bengaluru",
+    "college": "NID Ahmedabad",
+    "bio": "UX designer with a pottery habit. Usually found chasing golden-hour light or a friendly dog.",
+    "interests": ["Pottery", "Indie films", "Yoga", "Dogs"]
+  },
+  {
+    "id": "rohan",
+    "name": "Rohan",
+    "age": 28,
+    "photo": "/profiles/06-rohan.jpg",
+    "city": "Mumbai",
+    "college": "NMIMS Mumbai",
+    "bio": "Building a tiny fintech startup. Football on Sundays, boardroom on Mondays, sleep whenever.",
+    "interests": ["Football", "Coffee", "Travel", "Photography"]
+  },
+  {
+    "id": "isha",
+    "name": "Isha",
+    "age": 27,
+    "photo": "/profiles/07-isha.jpg",
+    "city": "Hyderabad",
+    "college": "IIIT Hyderabad",
+    "bio": "Data scientist by day, badminton trash-talker by evening. My biryani is objectively the best.",
+    "interests": ["Badminton", "Baking", "Podcasts", "Art"],
+    "likedYou": true
+  },
+  {
+    "id": "dev",
+    "name": "Dev",
+    "age": 26,
+    "photo": "/profiles/08-dev.jpg",
+    "city": "New Delhi",
+    "college": "Hindu College",
+    "bio": "Literature grad who accidentally became a copy editor. Will lend you books and then ask for them back.",
+    "interests": ["Books", "Theatre", "Running", "Tea"]
+  },
+  {
+    "id": "naina",
+    "name": "Naina",
+    "age": 30,
+    "photo": "/profiles/09-naina.jpg",
+    "city": "Goa",
+    "college": "WCS Goa",
+    "bio": "Marine biologist. Happiest underwater, second happiest eating sushi by the sea.",
+    "interests": ["Scuba diving", "Surfing", "Conservation", "Sushi"]
+  },
+  {
+    "id": "aditya",
+    "name": "Aditya",
+    "age": 25,
+    "photo": "/profiles/10-aditya.jpg",
+    "city": "Kolkata",
+    "college": "Jadavpur University",
+    "bio": "Music producer. I sample everything, including the kettle. Looking for a fellow concert buddy.",
+    "interests": ["Synths", "Rabindra sangeet", "Cinema", "Momos"],
+    "likedYou": true
+  },
+  {
+    "id": "tara",
+    "name": "Tara",
+    "age": 28,
+    "photo": "/profiles/11-tara.jpg",
+    "city": "Jaipur",
+    "college": "CEPT Ahmedabad",
+    "bio": "Architect who sketches old buildings and dreams in courtyards. Chai is a personality trait.",
+    "interests": ["Sketching", "Heritage walks", "Ceramics", "Chai"]
+  },
+  {
+    "id": "vikram",
+    "name": "Vikram",
+    "age": 31,
+    "photo": "/profiles/12-vikram.jpg",
+    "city": "Bengaluru",
+    "college": "Welcomgroup Manipal",
+    "bio": "Chef and fermentation nerd. I will feed you well and narrate the entire menu.",
+    "interests": ["Fermentation", "Market runs", "Jazz", "Tennis"]
+  },
+  {
+    "id": "zoya",
+    "name": "Zoya",
+    "age": 24,
+    "photo": "/profiles/13-zoya.jpg",
+    "city": "Mumbai",
+    "college": "St. Xavier's College",
+    "bio": "Copywriter, spoken-word regular, and flea-market menace. Ask me about my unfinished novel.",
+    "interests": ["Spoken word", "Flea markets", "Cello", "Biryani"],
+    "likedYou": true
+  },
+  {
+    "id": "neel",
+    "name": "Neel",
+    "age": 27,
+    "photo": "/profiles/14-neel.jpg",
+    "city": "Chennai",
+    "college": "IIT Madras",
+    "bio": "Game designer. I build tiny worlds and lose to my own AI. Filter coffee is non-negotiable.",
+    "interests": ["Indie games", "Chess", "Anime", "Filter coffee"]
+  },
+  {
+    "id": "priya",
+    "name": "Priya",
+    "age": 26,
+    "photo": "/profiles/15-priya.jpg",
+    "city": "Ahmedabad",
+    "college": "AIIMS Delhi",
+    "bio": "Medical resident. My hobbies are sleeping, running, and pretending I'll sleep more.",
+    "interests": ["Running", "K-dramas", "Cooking", "Hiking"]
+  },
+  {
+    "id": "aryan",
+    "name": "Aryan",
+    "age": 23,
+    "photo": "/profiles/16-aryan.jpg",
+    "city": "Chandigarh",
+    "college": "PEC Chandigarh",
+    "bio": "CS senior building a side project instead of studying. Basketball, memes, lo-fi beats.",
+    "interests": ["Hackathons", "Basketball", "Memes", "Lo-fi"]
+  },
+  {
+    "id": "meera",
+    "name": "Meera",
+    "age": 29,
+    "photo": "/profiles/17-meera.jpg",
+    "city": "Kochi",
+    "college": "FTII Pune",
+    "bio": "Documentary filmmaker chasing stories in small towns. Will make you try fish curry.",
+    "interests": ["Storytelling", "Kerala food", "Film festivals", "Swimming"],
+    "likedYou": true
+  },
+  {
+    "id": "sahil",
+    "name": "Sahil",
+    "age": 28,
+    "photo": "/profiles/18-sahil.jpg",
+    "city": "Mumbai",
+    "college": "IIM Ahmedabad",
+    "bio": "Investment analyst with a squash problem. I read market reports on the beach, allegedly.",
+    "interests": ["Squash", "Market podcasts", "Wine", "Travel"]
+  },
+  {
+    "id": "riya",
+    "name": "Riya",
+    "age": 25,
+    "photo": "/profiles/19-riya.jpg",
+    "city": "Bengaluru",
+    "college": "Christ University",
+    "bio": "Growth marketer and part-time dance class dropout. I make a mean cold brew.",
+    "interests": ["Dance", "Coffee", "Podcasts", "Sketching"]
+  },
+  {
+    "id": "krish",
+    "name": "Krish",
+    "age": 30,
+    "photo": "/profiles/20-krish.jpg",
+    "city": "New Delhi",
+    "college": "NLU Delhi",
+    "bio": "Lawyer. I argue for a living but promise to be pleasant over dinner. Old Delhi food walks are my love language.",
+    "interests": ["Debate", "Old Delhi walks", "Whisky", "Reading"]
+  },
+  {
+    "id": "simran",
+    "name": "Simran",
+    "age": 27,
+    "photo": "/profiles/21-simran.jpg",
+    "city": "Pune",
+    "college": "Fergusson College",
+    "bio": "Clinical psychologist. I will listen, but I also expect to be asked about my day.",
+    "interests": ["Journaling", "Hiking", "Chai", "Indie music"],
+    "likedYou": true
+  },
+  {
+    "id": "yash",
+    "name": "Yash",
+    "age": 24,
+    "photo": "/profiles/22-yash.jpg",
+    "city": "Indore",
+    "college": "IIT Indore",
+    "bio": "Frontend developer obsessed with design systems and street food. My Figma files are tidy. My room is not.",
+    "interests": ["Design systems", "Football", "Gaming", "Street food"]
+  },
+  {
+    "id": "aisha",
+    "name": "Aisha",
+    "age": 31,
+    "photo": "/profiles/23-aisha.jpg",
+    "city": "Lucknow",
+    "college": "IIHM Lucknow",
+    "bio": "Chef and Awadhi food nerd. My love language is slow-cooked biryani and a good ghazal.",
+    "interests": ["Awadhi cooking", "Poetry", "Travel", "Photography"]
+  },
+  {
+    "id": "manav",
+    "name": "Manav",
+    "age": 26,
+    "photo": "/profiles/24-manav.jpg",
+    "city": "Surat",
+    "college": "NIT Surat",
+    "bio": "Supply chain nerd with a cycling habit. I can explain port logistics in under a minute.",
+    "interests": ["Cycling", "Documentaries", "Cooking", "Stock market"]
+  },
+  {
+    "id": "kiara",
+    "name": "Kiara",
+    "age": 23,
+    "photo": "/profiles/25-kiara.jpg",
+    "city": "Mumbai",
+    "college": "NIFT Mumbai",
+    "bio": "Fashion student, vintage hoarder, and festival regular. Currently accepting outfit opinions.",
+    "interests": ["Vintage", "Thrifting", "Raves", "Coffee"]
+  },
+  {
+    "id": "pranav",
+    "name": "Pranav",
+    "age": 29,
+    "photo": "/profiles/26-pranav.jpg",
+    "city": "Bengaluru",
+    "college": "IISc Bengaluru",
+    "bio": "AI researcher. I teach machines to see, but still can't find my keys. Hikes and chess on weekends.",
+    "interests": ["Hiking", "Chess", "Sci-fi", "Synthwave"],
+    "likedYou": true
+  },
+  {
+    "id": "divya",
+    "name": "Divya",
+    "age": 28,
+    "photo": "/profiles/27-divya.jpg",
+    "city": "Coimbatore",
+    "college": "PSG Tech",
+    "bio": "Environmental engineer and amateur birdwatcher. My camera roll is 80% birds.",
+    "interests": ["Birdwatching", "Pottery", "Running", "Tea"]
+  },
+  {
+    "id": "nandini",
+    "name": "Nandini",
+    "age": 28,
+    "photo": "/profiles/28-nandini.jpg",
+    "city": "Mumbai",
+    "college": "MICA Ahmedabad",
+    "bio": "Brand strategist and amateur baker. I name my sourdough starters after exes.",
+    "interests": ["Baking", "Branding", "Film", "Long walks"]
+  },
+  {
+    "id": "leela",
+    "name": "Leela",
+    "age": 27,
+    "photo": "/profiles/29-leela.jpg",
+    "city": "Hyderabad",
+    "college": "IIIT Hyderabad",
+    "bio": "Product designer, ceramic mug collector, and salsa beginner. Dogs are my Roman Empire.",
+    "interests": ["Ceramics", "Salsa", "Dogs", "Brunch"]
+  },
+  {
+    "id": "kavya",
+    "name": "Kavya",
+    "age": 25,
+    "photo": "/profiles/30-kavya.jpg",
+    "city": "Bengaluru",
+    "college": "RVCE Bengaluru",
+    "bio": "Backend developer who climbs on weekends. My plants are thriving; my sleep schedule is not.",
+    "interests": ["Bouldering", "Plants", "Tech", "Coffee"]
+  },
+  {
+    "id": "fatima",
+    "name": "Fatima",
+    "age": 26,
+    "photo": "/profiles/31-fatima.jpg",
+    "city": "New Delhi",
+    "college": "Jamia Millia Islamia",
+    "bio": "Journalist covering cities and climate. Street food is my research method.",
+    "interests": ["Politics", "Street food", "Film", "Badminton"],
+    "likedYou": true
+  },
+  {
+    "id": "anika",
+    "name": "Anika",
+    "age": 27,
+    "photo": "/profiles/32-anika.jpg",
+    "city": "New Delhi",
+    "college": "SPA Delhi",
+    "bio": "Urban planner. I notice sidewalks, street trees, and good typography. In that order.",
+    "interests": ["Urbanism", "Typography", "Cycling", "Coffee"]
+  },
+  {
+    "id": "ira",
+    "name": "Ira",
+    "age": 29,
+    "photo": "/profiles/33-ira.jpg",
+    "city": "Mumbai",
+    "college": "St. Xavier's College",
+    "bio": "M&A associate by day, sailor on weekends. Looking for someone who won't judge my 9 p.m. bedtime.",
+    "interests": ["Sailing", "Wine", "Art deco", "Running"]
+  },
+  {
+    "id": "rhea",
+    "name": "Rhea",
+    "age": 24,
+    "photo": "/profiles/34-rhea.jpg",
+    "city": "Mumbai",
+    "college": "Mithibai College",
+    "bio": "Radio producer with a voice made for late nights. Ask me for a song recommendation.",
+    "interests": ["Radio", "Music", "Thrifting", "Sushi"]
+  },
+  {
+    "id": "ayesha",
+    "name": "Ayesha",
+    "age": 25,
+    "photo": "/profiles/35-ayesha.jpg",
+    "city": "Kolkata",
+    "college": "Srishti Manipal",
+    "bio": "Illustrator who draws tiny comics about big feelings. Rainy days, filter coffee, and cats.",
+    "interests": ["Comics", "Rain", "Coffee", "Cats"]
+  },
+  {
+    "id": "saira",
+    "name": "Saira",
+    "age": 30,
+    "photo": "/profiles/36-saira.jpg",
+    "city": "Hyderabad",
+    "college": "University of Hyderabad",
+    "bio": "Climate researcher. I spend half my year in the field and the other half looking for good hummus.",
+    "interests": ["Climate", "Travel", "Hummus", "Running"]
+  },
+  {
+    "id": "myra",
+    "name": "Myra",
+    "age": 29,
+    "photo": "/profiles/37-myra.jpg",
+    "city": "Goa",
+    "college": "Goa University",
+    "bio": "Yoga teacher and sunset chaser. I'll convince you to wake up at 5 a.m. and you'll thank me.",
+    "interests": ["Yoga", "Sunsets", "Journaling", "Seafood"]
+  }
+]
