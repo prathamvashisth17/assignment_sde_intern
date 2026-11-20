@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Coy SDE Intern Assignment
 
 This repository contains both parts of the assignment:
@@ -419,3 +420,6 @@ This filesystem approach works with `next dev`, `next start`, and any long-runni
   - toast feedback
   - tab switching
   - empty state
+=======
+# assignment_sde_intern
+>>>>>>> 236ae393e556975538039da2088a414ccab11acf
